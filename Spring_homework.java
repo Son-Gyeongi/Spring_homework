@@ -15,7 +15,7 @@ public class Spring_homework {
         //운행 메서드
         bus100.busRun(20);
         bus100.busEnd();              //운행을 종료합니다 .차고지행
-//
+
         bus200.busRun(3);        //주유량을 확인해 주세요
         bus200.busEnd();             //운행을 종료합니다 .차고지행
 
