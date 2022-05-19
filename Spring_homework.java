@@ -6,7 +6,7 @@ public class Spring_homework {
         //버스 객체 선언, 생성
         Bus bus100 = new Bus(100,10 ,30,3,30,50);
         Bus bus200 = new Bus(200, 14,80,1,9, 40);
-        Bus bus300 = new Bus(200, 20,20,1,9, 40);
+        Bus bus300 = new Bus(300, 20,20,1,9, 40);
 
         //버스 상태 변경 메서드 호출
         bus100.busState(12,false);  //운행을 종료합니다. 차고지행
