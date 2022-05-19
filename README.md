@@ -9,5 +9,5 @@
 
 
 -----
-### Spring_homework는 Bus, Taxi 클래스의 메서드가 잘 되는지 보기 위해서 만들었습니다.
-* [Spring_homework](Spring_homework.java)
+Spring_homework는 Bus, Taxi 클래스의 메서드가 잘 되는지 보기 위해서 만들었습니다.
+* [Spring_homework.java](Spring_homework.java)
