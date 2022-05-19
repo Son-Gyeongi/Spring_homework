@@ -32,7 +32,7 @@ public class Spring_homework {
 
         //택시 객체 선언, 생성
         Taxi taxi1 = new Taxi(1,17, 50,3, 3);
-        Taxi taxi2 = new Taxi(1,7, 30,5, 5);
+        Taxi taxi2 = new Taxi(2,7, 30,5, 5);
 
         //운행 시작 메서드
         taxi1.taxiRun();    //택시 운행 가능한 상태입니다
